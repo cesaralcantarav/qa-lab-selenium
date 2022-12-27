@@ -1,5 +1,5 @@
 #language: es
-
+@testfeature
 Característica: Login
   Yo, como usuario
   Quiero, tener una opción para iniciar sesión
